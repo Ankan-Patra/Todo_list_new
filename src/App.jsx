@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import AddTodo from './components/AddTodos'
 import TodoSlice from './features/todo/todoSlice'
-import Todos from './components/todos'
+import Todos from './components/Todos'
 
 function App() {
 
